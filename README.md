@@ -9,5 +9,5 @@
 # <p align="center">===LATIHAN 1===</p>
 # <p align="center">Penjelasan Program</p>
 !(1.png)
-# code = 
-!(1.png)
+# Code 
+![](1.png)
