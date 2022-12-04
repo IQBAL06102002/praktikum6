@@ -74,3 +74,8 @@ Apabila kita menginput H maka kita akan diminta menginput nama yang akan dihapus
 ![](C.png)
 # 6. Keluar Dari Program
 ![](O.png)
+
+# <b>FLOWCHART</b>
+
+![](F1.png)
+![](F2.png)
